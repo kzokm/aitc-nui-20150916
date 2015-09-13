@@ -1,0 +1,20 @@
+{
+  "name": "aitc-nui-20150916",
+  "version": "1.0.0",
+  "description": "Demonstration of 空間OS with Hue",
+  "author": "OKAMURA, Kazuhide <okamura@techlier.jp>",
+  "license": "MIT",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzokm/aitc-nui-20150916.git"
+  },
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/kzokm/aitc-nui-20150916/issues"
+  },
+  "homepage": "https://github.com/kzokm/aitc-nui-20150916#readme"
+}
